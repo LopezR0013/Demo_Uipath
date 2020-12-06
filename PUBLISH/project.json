@@ -13,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.10.2.0",
-  "projectVersion": "1.0.10",
+  "projectVersion": "1.0.12",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -45,6 +45,18 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "07dc4e8a-46df-4831-8626-e4cc71140123",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Sequence.xaml",
+      "uniqueId": "8439a827-d493-4bec-b862-c10156c72696",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Test creditinals.xaml",
+      "uniqueId": "beeb1132-33c5-4dee-ae1c-12d9ff8e594f",
       "input": [],
       "output": []
     }
